@@ -6,6 +6,7 @@ The problem is solved using the following methods:
    This binary programming is solved using GUROBI.  
 2) Rule (Shortest Processing Time/SPT)  
 3) 2-Opt Algorithm  
+
 All solution methods are coded in Python.  
 
 ![image](https://user-images.githubusercontent.com/42261330/206994555-0195e38f-0ca7-4aba-bb90-4f5e8ecf1518.png)
