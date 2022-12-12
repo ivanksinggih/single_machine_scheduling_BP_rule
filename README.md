@@ -14,6 +14,14 @@ All solution methods are coded in Python.
 # Method 1: Binary Programming
 ```
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ![image](https://user-images.githubusercontent.com/42261330/206994555-0195e38f-0ca7-4aba-bb90-4f5e8ecf1518.png)
 
 ![image](https://user-images.githubusercontent.com/42261330/206990890-aa01bc61-2cca-4f1d-9ca6-c6167fffc87c.png)
