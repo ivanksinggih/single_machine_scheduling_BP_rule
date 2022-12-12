@@ -1,8 +1,9 @@
 # Single Machine Scheduling using Binary Programming and Rule
 
-The single machine scheduling is formulated into a binary programming.
-This binary programming is solved using GUROBI.
-The problem is also solved using a rule (Shortest Processing Time/SPT).
+The single machine scheduling is formulated into a binary programming.  
+This binary programming is solved using GUROBI.  
+The problem is also solved using a rule (Shortest Processing Time/SPT) and local search.  
+Both solution methods are coded in Python.  
 
 ![image](https://user-images.githubusercontent.com/42261330/206990779-77e42e64-e3d4-4267-b644-0389f2eac919.png)
 
