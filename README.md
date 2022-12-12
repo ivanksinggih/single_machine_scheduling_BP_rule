@@ -1,4 +1,5 @@
-# Single Machine Scheduling using Binary Programming and Rule
+# Single Machine Scheduling 
+## Using Binary Programming, Rule, and 2-Opt Algorithm
 
 A single machine scheduling problem is discussed.  
 The problem is solved using the following methods:  
