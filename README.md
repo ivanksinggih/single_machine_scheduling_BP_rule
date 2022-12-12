@@ -12,7 +12,8 @@ All solution methods are coded in Python.
 
 ```
 **Method 1: Binary Programming
-**```
+**
+```
 
 ![image](https://user-images.githubusercontent.com/42261330/206994555-0195e38f-0ca7-4aba-bb90-4f5e8ecf1518.png)
 
