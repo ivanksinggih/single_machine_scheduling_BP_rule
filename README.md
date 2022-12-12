@@ -11,4 +11,4 @@ Both solution methods are coded in Python.
 
 ![image](https://user-images.githubusercontent.com/42261330/206990913-a3a6ed8a-d4d9-415d-ac82-00d6769c9d09.png)
 
-![image](https://user-images.githubusercontent.com/42261330/206990932-e5054280-9d88-4507-a173-0c61ba220e79.png)
+![image](https://user-images.githubusercontent.com/42261330/206994737-68b2dc97-6cca-4783-b523-e9df195f4187.png)
