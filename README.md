@@ -5,7 +5,7 @@ This binary programming is solved using GUROBI.
 The problem is also solved using a rule (Shortest Processing Time/SPT) and local search.  
 Both solution methods are coded in Python.  
 
-![image](https://user-images.githubusercontent.com/42261330/206990779-77e42e64-e3d4-4267-b644-0389f2eac919.png)
+![image](https://user-images.githubusercontent.com/42261330/206994555-0195e38f-0ca7-4aba-bb90-4f5e8ecf1518.png)
 
 ![image](https://user-images.githubusercontent.com/42261330/206990890-aa01bc61-2cca-4f1d-9ca6-c6167fffc87c.png)
 
