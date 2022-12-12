@@ -11,7 +11,7 @@ The problem is solved using the following methods:
 All solution methods are coded in Python.  
 
 ```
-***Method 1: Binary Programming***
+**Method 1: Binary Programming**
 ```
 
 ![image](https://user-images.githubusercontent.com/42261330/206994555-0195e38f-0ca7-4aba-bb90-4f5e8ecf1518.png)
@@ -21,13 +21,13 @@ All solution methods are coded in Python.
 ![image](https://user-images.githubusercontent.com/42261330/206990913-a3a6ed8a-d4d9-415d-ac82-00d6769c9d09.png)
 
 ```
-***Method 2: Shortest Processing Time Rule***
+**Method 2: Shortest Processing Time Rule**
 ```
 
 ![image](https://user-images.githubusercontent.com/42261330/206994737-68b2dc97-6cca-4783-b523-e9df195f4187.png)
 
 ```
-***Method 3: 2-Opt Algorithm***
+**Method 3: 2-Opt Algorithm**
 ```
 
 ![image](https://user-images.githubusercontent.com/42261330/207002370-ed055dbf-8f56-4f8b-a34a-d582d748217f.png)
